@@ -6,6 +6,6 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
 
 2. MarketBusket Data Visualisation
 
-   ![wordcloud](/Users/yibeiou/Downloads/IT/Advanced_Business_Intelligence/2/MarketBasket_Visulisaiton/wordcloud.jpg)
+   ![wordcloud](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/2/MarketBasket_Visulisaiton/wordcloud.jpg)
 
    
