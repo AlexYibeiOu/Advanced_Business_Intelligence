@@ -1,4 +1,4 @@
-# Advanced_Business_Intelligence
+# Advanced Business Intelligence
 Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
 
 
