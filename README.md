@@ -18,4 +18,10 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
 
    ![WordCloud](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/2/MarketBasket_Data_Visulisaiton/wordcloud.jpg)
 
+3. Titanic & Tpot
+
+   Dataset: Titanic
    
+   Link: https://www.kaggle.com/c/titanic
+   
+   ![Titanic_Kaggle.png](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/3/titanic/Titanic_Kaggle.png)
