@@ -39,3 +39,10 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    Link: https://www.kaggle.com/jneupane12/movielens/
    
    ![MovieLens.png](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/4/MovieLens/MovieLens.png)
+   
+   
+8. Prophet - JetTrain
+
+   Predict JetTrain customer amount.
+   
+   ![JetTrain.png](https://github.com/yibeiou/Advanced_Business_Intelligence/blob/master/8/Prophet_JetTrain/JetTrain.png)
