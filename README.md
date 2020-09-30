@@ -16,7 +16,7 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    
    Link：https://www.kaggle.com/dragonheir/basket-optimisation
 
-   ![WordCloud](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/2/MarketBasket_Data_Visulisaiton/wordcloud.png)
+   ![WordCloud](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/2/WordCloud_MarketBasket/wordcloud.png)
 
 3. Tpot - Titanic
 
