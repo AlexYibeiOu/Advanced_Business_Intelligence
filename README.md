@@ -44,5 +44,15 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
 8. Prophet - JetTrain
 
    Predict JetTrain customer amount.
+
+   Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality,
+   plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing 
+   data and shifts in the trend, and typically handles outliers well.
+
+   Prophet is open source software released by Facebook’s Core Data Science team. It is available for download on CRAN and PyPI.
+
+   https://facebook.github.io/prophet/
+   
+   Dataset: Japan JetTrain
    
    ![JetTrain.png](https://github.com/yibeiou/Advanced_Business_Intelligence/blob/master/8/Prophet_JetTrain/JetTrain.png)
