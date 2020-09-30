@@ -28,7 +28,7 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    
    Link: https://www.kaggle.com/c/titanic
    
-   ![Titanic_Kaggle.png](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/3/titanic/Titanic_Kaggle.png)
+   ![Titanic_Kaggle.png](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/3/TPOT_Titanic/Titanic_Kaggle.png)
 
 4. surprise SVD - MovieLens Ratings 
    
