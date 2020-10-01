@@ -40,6 +40,11 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    
    ![MovieLens.png](https://github.com/ouyibei/Advanced_Business_Intelligence/blob/master/4/SVD_MovieLens/MovieLens.png)
    
+5. WDL - MovieLens Ratings
+
+   Article: Wide & Deep Learning for Recommender Systems，2016 https://arxiv.org/abs/1606.07792
+   
+   Tool: DeepCTR, https://github.com/shenweichen/DeepCTR
    
 8. Prophet - JetTrain
 
