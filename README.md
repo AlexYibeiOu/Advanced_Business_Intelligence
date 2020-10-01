@@ -42,9 +42,15 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    
 5. WDL - MovieLens Ratings
 
+   Calculated RMSE.
+
    Article: Wide & Deep Learning for Recommender Systems，2016 https://arxiv.org/abs/1606.07792
    
    Tool: DeepCTR, https://github.com/shenweichen/DeepCTR
+   
+   Dataset: MovieLens Rating
+   
+   Link: https://www.kaggle.com/jneupane12/movielens/
    
 8. Prophet - JetTrain
 
