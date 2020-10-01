@@ -60,6 +60,16 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
    
    Dataset: Weibo news.
    
+7. ResNet18 - CIFAR10
+
+   
+   
+   Deep Residual Learning for Image Recognition, Kaiming He, 2016 CVPR Best Paper, https://arxiv.org/abs/1512.03385v1
+
+   
+
+   Dataset:
+   
 8. Prophet - JetTrain
 
    Predict JetTrain customer amount.
