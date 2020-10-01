@@ -68,7 +68,9 @@ Data Collection, Visualisation, User Profile, SVD, CTR, LSH, NN, Time Series
 
    
 
-   Dataset:
+   Dataset: 
+   
+   Link: http://www.cs.toronto.edu/~kriz/cifar.html
    
 8. Prophet - JetTrain
 
